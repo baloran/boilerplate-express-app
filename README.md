@@ -4,7 +4,7 @@ Use this for start project of express App.
 
 ## Installation
 
-**With [node](http://nodejs.org) installed:
+**With [node](http://nodejs.org) installed:**
 ```bash
 git clone https://github.com/baloran/boilerplate-express-app.git
 cd boilerplate-express-app
