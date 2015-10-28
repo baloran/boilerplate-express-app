@@ -1,0 +1,17 @@
+{
+  "name": "waiting",
+  "version": "1.0.0",
+  "description": "Boilerplate Express app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnaud Allouis aka Baloran <hello@baloran.fr>",
+  "license": "None",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "ejs": "^2.2.4",
+    "express": "^4.11.2",
+    "serve-favicon": "^2.2.0"
+  }
+}

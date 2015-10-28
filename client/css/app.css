@@ -1,0 +1,41 @@
+/**
+ * Boilerplate Express-App
+ * Arnaud Allouis aka Baloran
+ * arnaud.allouis@baloran.fr
+ */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800);
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+  text-transform: uppercase;
+  font-weight: 800;
+}
+
+.main{
+  width: 500px;
+  margin:0 auto;
+  margin-top: 20%;
+  text-align: center;
+}
+
+.todo{
+  text-align: left;
+}
+
+.footer{
+  font-size: 9px;
+  text-align: left;
+  color:#6C6C6C;
+  text-transform: uppercase;
+  font-weight: 800;
+  margin-top: 50px;
+}
+
+a{
+  text-decoration: none;
+  color:inherit;
+}
