@@ -13,5 +13,9 @@
     "ejs": "^2.2.4",
     "express": "^4.11.2",
     "serve-favicon": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:baloran/boilerplate-express-app.git"
   }
 }
